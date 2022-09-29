@@ -5,7 +5,7 @@ This is a simple project made to display the various ways programmers might writ
 
 1 hour and 30 mins approximately
 
-[Live Demo](https://qrcodegen-akj.netlify.app/)
+[Live Demo](https://caseconverter-akj.netlify.app/)
 
 ### SnapShot of the program
 
